@@ -22,4 +22,9 @@ Now that I have come out of this bootcamp as a full stack software developer, it
 * SQLite
 * Git
 
+___
 
+* Agile and Scrum Management
+* Kanban Planning
+* Lightning Talks
+* TDD (Test Driven Development)
