@@ -16,14 +16,16 @@ I have a collection of work on my Github, which is a mix of group projects and p
 ### Swopzies
 
 Swopzies is a free to use website for people looking to trade goods and services with no money involved.
+
 As the product owner of Swopzies, I wanted to create a website that had the community in mind. I believe this is a great idea to bring the community together, barter your skills/services and even swap a tasty bottle of homebrew with a jar of honey from the beekeeper down the road.
+
 I worked in a fantastic and diverse team of six others, building what is now Swopzies in less than a week. The final product was presented on graduation at Enspiral Dev Academy, but is still a work in progress.
 
 * https://swopzies.herokuapp.com/
 
 ### This or That
 
-This or That is a personal project of mine that is just in its beginning stages. 
+This or That is a personal project of mine that is just in its beginning stages.
 It's a simple game of comparing two different things (eg. cats or dogs) and seeing what percentage of people choose either option.
 There will be added functionality of commenting, user stats, creating your own comparisons etc.
 
