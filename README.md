@@ -1,5 +1,5 @@
-# Jack Bennett ## *Software Developer*
----
+# Jack Bennett - *Software Developer*
+
 **Email:** bennettjack44@gmail.com
 
 **LinkedIn:** https://www.linkedin.com/in/j-ack-bennett/
