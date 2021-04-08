@@ -1,5 +1,13 @@
 # About Me
 
+### Jack Bennett
+#### Software Developer
+---
+**Email:** [bennettjack44@gmail.com]
+**LinkedIn:** [https://www.linkedin.com/in/j-ack-bennett/]
+**CV:** Please see attached.
+**Availability:** Open to work.
+
 I started my journey into software development through Enspiral Dev Academy, realising pretty quickly that I had finally found a career that I was incredibly passionate and enthused about.
 
 My background includes various sales, inventory and management roles within the retail industry. I have been through an eclectic mix of companies and experienced a range of positions, which drove me to the stage of wanting to find something completely different that I really had a deep passion for.
@@ -26,7 +34,7 @@ I worked in a fantastic and diverse team of six others, building what is now Swo
 ### This or That
 
 This or That is a personal project of mine that is just in its beginning stages.
-It's a simple game of comparing two different things (eg. cats or dogs) and seeing what percentage of people choose either option.
+It's a simple game of comparing two different things (eg. iOS or Android) and seeing what percentage of people choose either option.
 There will be added functionality of commenting, user stats, creating your own comparisons etc.
 
 ## Other Stuff
