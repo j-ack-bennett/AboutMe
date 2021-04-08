@@ -1,16 +1,16 @@
-# About Me
-
-### Jack Bennett - *Software Developer*
+# Jack Bennett ## *Software Developer*
 ---
-**Email:** [bennettjack44@gmail.com]
+**Email:** bennettjack44@gmail.com
 
-**LinkedIn:** [https://www.linkedin.com/in/j-ack-bennett/]
+**LinkedIn:** https://www.linkedin.com/in/j-ack-bennett/
 
 **CV:** Please see attached.
 
 **Availability:** Open to work.
 
 ---
+
+## About me
 
 I started my journey into software development through Enspiral Dev Academy, realising pretty quickly that I had finally found a career that I was incredibly passionate and enthused about.
 
