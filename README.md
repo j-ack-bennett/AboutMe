@@ -51,9 +51,10 @@ I've recently started learning **Swift** and am excited to see what projects I c
 ## Technical Skills
 
 * HTML
-* CSS (SASS & Bulma)
+* CSS (SASS, Bulma & Tailwinds)
 * JavaScript
 * React
+* React-Native
 * Redux
 * Node.js
 * Express.js
