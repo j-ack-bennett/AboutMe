@@ -2,6 +2,8 @@
 
 **Email:** bennettjack44@gmail.com
 
+**Portfolio:** https://j-ack-bennett.github.io/portfolio/
+
 **LinkedIn:** https://www.linkedin.com/in/j-ack-bennett/
 
 **CV:** Please see attached.
@@ -45,16 +47,16 @@ There will be added functionality of commenting, user stats, creating your own c
 
 ## Other Stuff
 
-I have a very keen interest in developing my skills for mobile development, specifically iOS.
-I've recently started learning **Swift** and am excited to see what projects I can create from this versatile language.
+I have a very keen interest in developing my skills for mobile development.
+I've recently started learning **React Native** and am excited to see what projects I can create from this versatile framework.
 
 ## Technical Skills
 
 * HTML
-* CSS (SASS, Bulma & Tailwinds)
+* CSS (SASS & Bulma)
 * JavaScript
 * React
-* React-Native
+* React Native
 * Redux
 * Node.js
 * Express.js
